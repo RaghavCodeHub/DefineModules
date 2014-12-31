@@ -1,6 +1,6 @@
 {
   "name": "define-modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple way to inject module dependencies",
   "main": "index.js",
   "scripts": {

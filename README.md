@@ -23,9 +23,9 @@ A module that simplifies injecting module dependencies into a file through a con
   The server side javascript files should be configured in a json as follows:
   ```json
   {
-  	"app":"../../../app",
-  	"routes":"../../../routes",
-  	"user":"../../../routes/user"
+  	"app":"app",
+  	"routes":"routes",
+  	"user":"routes/user"
   } 
   ```
   You can call it pathsconfig.json or whatever name you prefer and save it in your main project root.
